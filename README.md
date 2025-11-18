@@ -13,7 +13,13 @@ This project demonstrates a full analytics pipeline:
 - Interactive dashboards with slicers, buttons, and drill-through
 
 ---
+## Live Dashboard  
 
+Full interactive report:  [Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc2ZTNjNTgtNDg0OC00NjFlLThmNjAtMDFmNmI3ZDVlYWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Download [PBIX](https://drive.google.com/file/d/1TRJG6iNRZrQDD3kbinBEQoVu80W5ZbRt/view?usp=drive_link)
+
+---
 
 ## Pages & Key Insights
 
@@ -82,8 +88,4 @@ This project demonstrates a full analytics pipeline:
 - Data model uses a Star Schema (fact tables + dims)
 ---
 
-## Live Dashboard  
-
-Full interactive report:  [Business Insights 360 Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYzc2ZTNjNTgtNDg0OC00NjFlLThmNjAtMDFmNmI3ZDVlYWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
----
 
