@@ -1,4 +1,4 @@
-
+ 
 # Business Insights 360 — Power BI Dashboard (AtliQ Hardware)
 
 **End-to-end Power BI project** delivering Finance, Sales, Marketing, Supply Chain and Executive dashboards for a consumer-electronics company.
