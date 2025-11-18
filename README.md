@@ -14,6 +14,7 @@ This project demonstrates a full analytics pipeline:
 
 ---
 
+
 ## Pages & Key Insights
 
 ### Home Page
@@ -81,4 +82,7 @@ This project demonstrates a full analytics pipeline:
 - Data model uses a Star Schema (fact tables + dims)
 ---
 
+## Live Dashboard  
+Full interactive report: **[Business Insights 360 Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYzc2ZTNjNTgtNDg0OC00NjFlLThmNjAtMDFmNmI3ZDVlYWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+---
 
